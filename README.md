@@ -31,45 +31,6 @@
 
 ---
 
-## 🗂 Repository Structure
-
-```
-📦 testing-portfolio
- ┣ 📂 01_PageGuard_Playwright
- ┃ ┣ 📂 tests
- ┃ ┃ ┗ 📄 health-check.spec.ts
- ┃ ┣ 📄 playwright.config.ts
- ┃ ┣ 📄 package.json
- ┃ ┗ 📄 README.md
- ┣ 📂 02_FormSentry_Cypress
- ┃ ┣ 📂 cypress/e2e
- ┃ ┃ ┗ 📄 form-validation.cy.js
- ┃ ┣ 📄 cypress.config.js
- ┃ ┣ 📄 package.json
- ┃ ┗ 📄 README.md
- ┣ 📂 03_ApiSentinel_JUnit
- ┃ ┣ 📂 src/test/java/com/apisentinel
- ┃ ┃ ┗ 📄 ApiSentinelTest.java
- ┃ ┣ 📄 pom.xml
- ┃ ┗ 📄 README.md
- ┣ 📂 04_DataValidator_pytest
- ┃ ┣ 📂 tests
- ┃ ┃ ┗ 📄 test_data_quality.py
- ┃ ┣ 📂 data
- ┃ ┃ ┣ 📄 employees_clean.csv
- ┃ ┃ ┣ 📄 employees_dirty.csv
- ┃ ┃ ┗ 📄 sales_clean.csv
- ┃ ┣ 📄 requirements.txt
- ┃ ┗ 📄 README.md
- ┣ 📂 05_AIOutputGuard_Playwright
- ┃ ┣ 📂 tests
- ┃ ┃ ┗ 📄 ai-output-guard.spec.ts
- ┃ ┣ 📄 playwright.config.ts
- ┃ ┣ 📄 package.json
- ┃ ┗ 📄 README.md
- ┗ 📄 README.md  ← you are here
-```
-
 ---
 
 ## 🛠 Projects
